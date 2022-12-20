@@ -1,0 +1,1 @@
+to jest plik m0.txt
