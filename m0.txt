@@ -1,3 +1,5 @@
 to jest plik m0.txt
 od autora 
 Emil
+fff
+kaczmarczyk
